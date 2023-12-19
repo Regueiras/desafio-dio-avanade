@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\desafioC\bin\Debug\net8.0\desafioC.exe
+C:\Users\Usuario\Desktop\desafioC\bin\Debug\net8.0\desafioC.deps.json
+C:\Users\Usuario\Desktop\desafioC\bin\Debug\net8.0\desafioC.runtimeconfig.json
+C:\Users\Usuario\Desktop\desafioC\bin\Debug\net8.0\desafioC.dll
+C:\Users\Usuario\Desktop\desafioC\bin\Debug\net8.0\desafioC.pdb
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.dll
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\refint\desafioC.dll
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.pdb
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\desafioC.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\desafioC\obj\Debug\net8.0\ref\desafioC.dll
